@@ -1,0 +1,47 @@
+body {
+    background-color: #CADFAB;
+    color: black;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+}
+
+.navlink {
+    display: inline;
+    background-color: #E9D9E9;
+    color: black;
+    font-weight: bold;
+    padding: 8px;
+    margin-right: 8px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+nav {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+nav li {
+    display: inline;
+}
+
+
+.mx-auto {
+    margin: 0 auto;
+    display: block;
+}
+
+.bhome {
+    text-decoration: none;
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+
+}
